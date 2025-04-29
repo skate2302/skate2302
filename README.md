@@ -1,13 +1,9 @@
-<h1 align="center">Wagwan👋, I'm Shawn!</h1>
+<h1 align="center">Wagwan!🖖🪬</h1>
 <h3 align="center">Result-Driven professional with a strong background in software development and event execution. Skilled in handling end-to-end project management, from budgeting and scheduling to stakeholder collaboration. Adept at bridging technical expertise with operational efficiency to drive impactful outcomes</h3>
 
 - 🔭 I’m currently working on **Flutter Projects**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👯 I’m looking to collaborate on **projects that require building robust and scalable systems / Data-driven applications and analysis to extract actionable insights / AI-driven software solutions and innovative product development.**
-
-- 📫 How to reach me **shawnbiju.thomas@gmail.com**
 
 - ⚡ Fun fact **: I'm Very Boring.**
 
