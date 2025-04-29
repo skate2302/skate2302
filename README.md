@@ -1,5 +1,5 @@
 <h1 align="center">Wagwan!🖖🪬</h1>
-<h3>👈This guy is a Result-Driven professional with a strong background in software development and event execution. Skilled in handling end-to-end project management, from budgeting and scheduling to stakeholder collaboration. Adept at bridging technical expertise with operational efficiency to drive impactful outcomes</h3>
+<h3 align="center">This guy is a Result-Driven professional with a strong background in software development and event execution. Skilled in handling end-to-end project management, from budgeting and scheduling to stakeholder collaboration. Adept at bridging technical expertise with operational efficiency to drive impactful outcomes</h3>
 
 - 🔭 I’m currently working on **Flutter Projects**
 
