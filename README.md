@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **projects that require building robust and scalable systems / Data-driven applications and analysis to extract actionable insights / AI-driven software solutions and innovative product development.**
 
-- ⚡ Fun fact **: I'm Very Boring.**
+- ⚡ Fun fact **: I'm not Very fun.**
 
 <h3 align="left">Coding:</h3>
 <p align="left">
