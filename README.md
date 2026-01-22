@@ -1,5 +1,5 @@
 <h1 align="center">Wagwan!🖖🪬</h1>
-<h3 align="center">Result-Driven Individual with a background in software development and event execution. Skilled in handling end-to-end project management, from budgeting and scheduling to stakeholder collaboration. Adept at bridging technical expertise with operational efficiency to drive impactful outcomes</h3>
+<h3 align="center">{Result-driven Software professional with hands-on experience in building and delivering software solutions, along with proven exposure to project coordination and stakeholder collaboration. Skilled in working across the full project lifecycle, combining technical problem-solving with operational execution to deliver reliable and scalable outcomes.</h3>
 
 - 🔭 I’m currently working on **Upskiling myself (FreeLanceVanceDance) / (DSA Fundamentals)**
 
