@@ -1,5 +1,5 @@
 <h1 align="center">Wagwan!🖖🪬</h1>
-<h3 align="center">{Result-driven Software professional with hands-on experience in building and delivering software solutions, along with proven exposure to project coordination and stakeholder collaboration. Skilled in working across the full project lifecycle, combining technical problem-solving with operational execution to deliver reliable and scalable outcomes.</h3>
+<h3 align="center">Result-driven Software professional with hands-on experience in building and delivering software solutions, along with proven exposure to project coordination and stakeholder collaboration. Skilled in working across the full project lifecycle, combining technical problem-solving with operational execution to deliver reliable and scalable outcomes.</h3>
 
 - 🔭 I’m currently working on **Upskiling myself (FreeLanceVanceDance) / (DSA Fundamentals)**
 
