@@ -1,9 +1,5 @@
 <h1 align="center">Wagwan!🖖🪬</h1>
-<h3 align="center">Result-driven Software professional with hands-on experience in building and delivering software solutions, along with proven exposure to project coordination and stakeholder collaboration. Skilled in working across the full project lifecycle, combining technical problem-solving with operational execution to deliver reliable and scalable outcomes.</h3>
-
-- 🔭 I’m currently working on **Upskiling myself (FreeLanceVanceDance) / (DSA Fundamentals)**
-
-- 👯 I’m looking to collaborate on **projects that require building robust and scalable systems / Data-driven applications and analysis to extract actionable insights / AI-driven software solutions and innovative product development.**
+<h3 align="center">Result-driven professional combining a foundational technical background with formal certification in SAP Project Management and a proven record of cross-functional coordination. Experienced in capturing client requirements and engineering functional MVPs from the ground up. Leverages a strong foundation in modern tech stacks, including AI-driven logic and cloud integrations, to effectively guide development workflows. Proven ability to orchestrate teams, manage budgets, and execute successful end-to-end deliverables.</h3>
 
 - ⚡ Fun fact **: I'm not Very fun.**
 
